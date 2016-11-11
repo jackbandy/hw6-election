@@ -1,0 +1,249 @@
+url,tr,cl,jn,st,mc,state
+https://poll.qu.edu/images/polling/ps/ps11072016.pdf/ ,45,46,2,1,0,Florida
+https://www.scribd.com/document/330329594/Florida-November-3-2016-v1-1#from_embed ,45,46,4,0,0,Florida
+http://www.realclearpolitics.com/docs/2016/Trafalgar_FL_November_2016.pdf ,50,46,2,1,0,Florida
+http://opinionsavvy.com/wp-content/uploads/2016/11/OS-FL-General-11.7.16.pdf ,46,48,3,1,0,Florida
+http://media.wix.com/ugd/3bebb2_4c95f9bb0b874960a67b0cb7c019efd8.pdf ,46,39,7,3,0,Ohio
+http://www.nytimes.com/2016/11/08/upshot/trump-and-clinton-tied-in-final-upshot-poll-of-north-carolina.html ,44,44,3,0,0,North Carolina
+https://www.scribd.com/document/330329777/North-Carolina-November-5-2016-v3#from_embed ,45,46,3,0,0,North Carolina
+http://cnu.edu/cpp/pdf/nov%207%202016%20report-final.pdf ,42,48,3,0,0,Virginia
+https://drive.google.com/file/d/0B4lhKxf9pMiteE9pZkcwQnZ3TVk/view ,48,47,2,1,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Nevada_November.pdf ,46,45,3,0,0,Nevada
+http://www.realclearpolitics.com/docs/2016/Gravis_Nevada_November_2016.pdf ,43,45,4,0,0,Nevada
+http://www.realclearpolitics.com/docs/2016/NM_Statewide_PressRelease_Nov6.pdf ,44,46,6,1,0,New Mexico
+https://www.scribd.com/document/330329716/New-Mexico-November-4-2016-v1-1#from_embed ,37,45,1,3,0,New Mexico
+http://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2016_fall_pressengov110616.pdf ,38,49,6,1,0,New Hampshire
+https://www.scribd.com/document/330329677/Michigan-November-5-2016-v1-1#from_embed ,41,46,3,3,0,Michigan
+https://drive.google.com/file/d/0B4lhKxf9pMitN1JxcDRvQkdudkE/view ,49,47,3,1,0,Michigan
+https://lintvwavy.files.wordpress.com/2016/11/hu-cpp-poll-6-final.pdf ,41,45,0,0,0,Virginia
+https://www.scribd.com/document/330329810/Virginia-November-5-2016-v1-2#from_embed ,42,47,4,1,0,Virginia
+http://www.realclearpolitics.com/docs/2016/Landmark_RosettaStone_Georgia_November.pdf ,49,46,3,0,0,Georgia
+http://www.realclearpolitics.com/docs/2016/Trafalgar_Georgia_November.pdf ,52,45,2,0,0,Georgia
+https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/mwbtap4dgs/FL_Prelim_20161106.pdf ,45,45,4,2,0,Florida
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Florida_November.pdf ,48,45,2,2,0,Florida
+https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/vvlr48n70w/OH_Prelim_20161106.pdf ,46,45,3,2,0,Ohio
+http://www.dispatch.com/content/stories/local/2016/11/06/dispatch-poll-finds-presidential-race-too-close-to-call.html ,47,48,0,0,0,Ohio
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Ohio_November.pdf ,45,44,4,0,0,Ohio
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_11-6-16_FINAL_B.pdf ,41,46,7,3,0,Michigan
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Virginia_November.pdf ,44,46,4,3,0,Virginia
+https://www.abqjournal.com/883092/clinton-still-ahead-in-new-mexico.html ,40,45,1,3,0,New Mexico
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Wisconsin_November.pdf ,41,49,3,3,0,Wisconsin
+https://www.siena.edu/assets/files/news/SNY_November_2016_Pre-election_Poll_Release_--_FINAL487.pdf ,34,51,5,2,0,New York
+http://www.mcall.com/news/local/elections/mc-pa-poll-trump-clinton-toomey-mcginty-20161105-story.html ,40,44,7,2,0,Pennsylvania
+https://www.scribd.com/document/330033616/Pennsylvania-November-3-2016-v2-1#from_embed ,45,47,2,2,0,Pennsylvania
+http://www.desmoinesregister.com/story/news/politics/iowa-poll/2016/11/05/iowa-poll-trump-opens-7-point-lead-over-clinton/93347134/ ,46,39,6,1,0,Iowa
+http://www.loras.edu/news/clinton-trump-tight-race-iowa-grassley-young-blum-leads-loras-college-poll-finds/ ,43,44,3,3,0,Iowa
+https://www.scribd.com/document/330037738/Colorado-November-3-2016-v2#from_embed ,40,40,7,4,0,Colorado
+http://www.surveyusa.com/client/PollReport.aspx?g=befe5f60-092c-48e8-b36f-b5ae8e28048e ,38,50,4,2,0,Washington
+http://harperpolling.com/polls/pennsylvania-statewide-poll--11-2-3#PresidentTIE ,46,46,2,1,0,Pennsylvania
+http://www.freep.com/story/news/politics/2016/11/04/free-press-poll-donald-trump-gains-hillary-clinton-race-michigan-tightens/93287658/ ,38,42,5,1,0,Michigan
+http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf ,41,46,6,2,0,Michigan
+http://www.realclearpolitics.com/docs/2016/Emerson_Iowa_November_4th_2016_B.pdf ,44,41,5,4,0,Iowa
+http://www.realclearpolitics.com/docs/2016/Zia_Poll_November_4th_2016.pdf ,43,46,7,1,0,New Mexico
+http://www.realclearpolitics.com/docs/2016/Trafalgar_Colorado_November_2016.pdf ,44,45,5,4,0,Colorado
+http://www.realclearpolitics.com/docs/2016/Keating_Research_November_4th_2016.pdf ,38,43,7,2,0,Colorado
+https://www.uml.edu/docs/TOPLINE-NH-GENERAL-20161103_tcm18-264691.pdf ,44,44,5,2,0,New Hampshire
+http://www.realclearpolitics.com/docs/2016/Gravis_New_Hampshire_November_4.pdf ,43,41,7,2,0,New Hampshire
+http://www.loras.edu/news/clinton-maintains-lead-wisconsin-feingold-johnson-tight-race-loras-college-poll-finds/ ,38,44,7,2,0,Wisconsin
+http://howeypolitics.com/ ,48,37,9,0,0,Indiana
+http://www.realclearpolitics.com/docs/2016/Gravis_Indiana_November_4th_2016.pdf ,49,39,5,0,0,Indiana
+http://www.roanoke.edu/about/news/rc_poll_nov_2016_politics ,38,45,5,2,0,Virginia
+http://www.realclearpolitics.com/docs/2016/Trafalgar_N._Carolina_November_.pdf ,49,44,4,0,0,North Carolina
+http://www.wsbtv.com/ ,48,46,4,0,0,Georgia
+http://opinionsavvy.com/wp-content/uploads/2016/11/OS-GA-General-11.4.16.pdf ,49,45,6,0,0,Georgia
+http://observer.com/2016/11/stockton-new-jersey-poll-clinton-51-trump-40/ ,40,51,3,1,0,New Jersey
+https://www.scribd.com/document/330023731/UTAH-Final ,35,29,3,1,24,Utah
+http://www.deseretnews.com/article/865666429/New-poll-shows-voter-uncertainty-about-Trump-lead-in-Utah.html ,33,24,5,3,28,Utah
+http://www1.wne.edu/news/2016/11/PollingTables_FINAL_11_04_16.pdf ,26,56,8,3,0,Massachusetts
+http://www.kansas.com/news/local/article112533742.html ,58,34,0,0,0,Kansas
+http://d279m997dpfwgl.cloudfront.net/wp/2016/11/Topline-2016-10-WBUR-NH-General-6.pdf ,40,39,1,3,0,New Hampshire
+https://www.bostonglobe.com/news/politics?p1=BGHeader_MainNav ,42,42,5,2,0,New Hampshire
+http://americanresearchgroup.com/nhpoll/pres16/ ,48,43,4,1,0,New Hampshire
+http://www.realclearpolitics.com/docs/2016/Gravis_PA_November_3rd_2016.pdf ,46,47,3,2,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_11-3-16_FINAL.pdf ,44,47,4,1,0,Michigan
+http://www.denverpost.com/2016/11/02/hillary-clinton-donald-trump-tied-in-colorado-new-poll-shows/ ,39,39,5,4,0,Colorado
+http://magellanstrategies.com/colorado-2016-presidential-voter-opinion-survey-nov-3rd/ ,38,44,7,2,0,Colorado
+http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626 ,45,40,9,3,0,Arizona
+http://opinionsavvy.com/wp-content/uploads/2016/11/OS-FL-General-11.3.16.pdf ,45,49,3,1,0,Florida
+http://www.realclearpolitics.com/docs/2016/Gravis_FL_November_3rd_2016.pdf ,46,49,2,1,0,Florida
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_UT_110316/ ,37,31,4,1,24,Utah
+http://media.wix.com/ugd/3bebb2_f1333cfb6e9f42ae9d2e9dd81053b33a.pdf ,40,20,3,2,28,Utah
+http://www.rasmussenreports.com/public_content/politics/elections/election_2016/utah/election_2016_utah_president ,42,31,3,2,21,Utah
+http://www.sacbee.com/news/politics-government/capitol-alert/article112168782.html ,33,53,4,3,0,California
+https://fulbright.uark.edu/departments/political-science/partners/arkpoll/2016/Arkansas-Poll-Release-2016.pdf ,51,31,0,0,0,Arkansas
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_11-2-16_A.pdf ,44,47,4,1,0,Michigan
+https://poll.qu.edu/2016-presidential-swing-state-polls/release-detail?ReleaseID=2399 ,46,41,5,2,0,Ohio
+http://law.marquette.edu/poll/ ,40,46,4,3,0,Wisconsin
+http://i2.cdn.turner.com/cnn/2016/images/11/02/relfl3.pdf ,47,49,3,1,0,Florida
+http://www.realclearpolitics.com/docs/2016/Trafalgar_Florida_November_2nd_2016.pdf ,49,45,2,1,0,Florida
+http://i2.cdn.turner.com/cnn/2016/images/11/02/relnv3.pdf ,49,43,5,0,0,Nevada
+http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Toplines_4_States.11_.2_.pdf ,41,44,8,4,0,Colorado
+http://i2.cdn.turner.com/cnn/2016/images/11/02/relaz2.pdf ,49,44,5,1,0,Arizona
+http://news.hamptonu.edu/release/Hampton-University's-CPP-Latest-Poll-Shows-VA-Voter-Shift-from-Clinton-to-Trump-Post-Email-Investigation ,44,41,0,0,0,Virginia
+http://i2.cdn.turner.com/cnn/2016/images/11/02/relpa2.pdf ,44,48,4,2,0,Pennsylvania
+https://mgtvwhtm.files.wordpress.com/2016/11/toplines-statewideabc272-oct16.pdf ,43,45,2,2,0,Pennsylvania
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_110216/ ,44,48,3,1,0,Pennsylvania
+http://www.lasvegasnow.com/news/nvelection-8-news-now-poll-finds-clinton-trump-races-tied ,45,45,4,0,0,Nevada
+http://www.kptv.com/story/33544841/fox-12-dhm-poll-clinton-leads-trump-in-oregon-measure-97-trends-toward-defeat ,34,41,4,2,0,Oregon
+http://www.winthrop.edu/winthroppoll/default.aspx?id=9804 ,39,44,5,2,0,Virginia
+http://themissouritimes.com/35272/less-one-week-new-poll-shows-greitens-first-time/ ,52,39,4,1,0,Missouri
+http://www.wral.com/wral-poll-trump-charges-ahead-in-nc/16183780/ ,51,44,3,0,0,North Carolina
+http://www.politico.com/blogs/swing-states-2016-election/2016/11/poll-who-is-winning-in-north-carolina-230583 ,44,44,4,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Toplines_VA_IL_ME_11.1_.pdf ,45,49,3,1,0,Virginia
+https://www.washingtonpost.com/local/virginia-politics/clinton-leads-trump-in-virginia-in-new-washington-post-poll-propelled-by-voter-rich-northern-virginia/2016/10/31/1e560cce-9f9c-11e6-8832-23a007c77bb4_story.html ,42,48,6,2,0,Virginia
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_MO_110116/ ,52,38,4,2,0,Missouri
+http://www.fox2detroit.com/news/local-news/214932733-story ,43,50,4,1,0,Michigan
+http://www.fandm.edu/uploads/files/913809798323927231-f-m-poll-release-october-2016.pdf ,38,49,4,2,0,Pennsylvania
+http://dfw.cbslocal.com/2016/11/01/donald-trump-surges-to-12-point-lead-in-texas/ ,52,39,3,0,0,Texas
+http://mprc.me/research/1016_presidential3.pdf ,37,42,9,4,0,Maine
+http://www.loras.edu/news/clinton-tops-trump-illinois-duckworth-remains-lead-senate-loras-college-poll-finds/ ,34,45,6,2,0,Illinois
+http://wkussrc.blogspot.com/2016/11/trump-paul-lead-in-commonwealth-with.html ,54,37,1,1,0,Kentucky
+http://www.surveyusa.com/client/PollReport.aspx?g=2d084adb-9a19-474c-86bf-f8738055af38 ,35,56,4,1,0,California
+http://media.wix.com/ugd/3bebb2_6e2658e719304bde8f4e78f4559ecfa9.pdf ,43,49,4,1,0,Maine CD1
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_IN_103116/ ,50,39,4,0,0,Indiana
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Pennsylvania_October_31_2016.pdf ,43,45,0,0,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/Gravis_PA_October_31st_2016.pdf ,44,47,3,2,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/Remington_Research_North_Carolina_October_31_2016.pdf ,47,45,2,0,0,North Carolina
+http://www.11alive.com/news/politics/elections/exclusive-poll-donald-trump-will-win-georgia/343838078 ,49,42,3,0,0,Georgia
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Colorado_October_31_2016.pdf ,44,45,0,0,0,Colorado
+https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2016_fall_nhelec103116.pdf ,39,46,6,1,0,New Hampshire
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Nevada_October_31_2016.pdf ,48,44,4,0,0,Nevada
+http://www.fox2detroit.com/news/local-news/214738676-story ,41,47,6,2,0,Michigan
+http://kelo.com/news/articles/2016/nov/01/poll-trump-thune-noem-maintain-leads-in-sd/ ,49,35,7,0,0,South Dakota
+https://www.siena.edu/assets/files/news/FLUpshot1016_Crosstabs_245.pdf ,46,42,4,2,0,Florida
+http://www.nbcnews.com/meet-the-press/polls-clinton-leads-trump-north-carolina-dead-heat-florida-n675246 ,44,45,5,2,0,Florida
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Florida_October_31_2016.pdf ,48,44,0,0,0,Florida
+https://www.scribd.com/document/329374598/FL-Oct-27-v2-1#from_embed ,47,48,1,0,0,Florida
+https://www.scribd.com/document/329404955/CBS-News-Battleground-Tracker-Colorado-Oct-30-2016#from_embed ,39,42,7,2,0,Colorado
+https://www.scribd.com/document/329404958/CBS-News-Battleground-Tracker-Arizona-Oct-30-2016#from_embed ,44,42,4,1,0,Arizona
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Virginia_October_31_2016_B.pdf ,43,47,0,0,0,Virginia
+https://www.scribd.com/document/329371234/NC-Oct-27-v2-1#from_embed ,47,49,1,0,0,North Carolina
+https://www.scribd.com/document/329404956/CBS-News-Battleground-Tracker-North-Carolina-Oct-30-2016#from_embed ,45,48,3,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Ohio_October_31_2016.pdf ,48,43,0,0,0,Ohio
+https://www.scribd.com/document/329404957/CBS-News-Battleground-Tracker-Pennsylvania-Oct-30-2016#from_embed ,40,48,5,2,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/Remington_Research_Wisconsin_October_31_2016.pdf ,42,46,0,0,0,Wisconsin
+http://www.uno.edu/cola/political-science/documents/2016-Louisiana-Survey-Report.pdf ,49,35,7,2,0,Louisiana
+http://www.pressherald.com/2016/10/30/clinton-extends-her-lead-in-latest-maine-sunday-telegram-poll-of-voters/ ,37,48,5,3,0,Maine
+https://www.scribd.com/document/329381966/Tribune-Presidential-Poll ,32,24,4,1,30,Utah
+http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Topline_5_States_10.29_.pdf ,45,46,4,0,0,Florida
+http://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA-Pres_MidOct_Report.pdf ,39,45,8,2,0,Pennsylvania
+http://www.surveyusa.com/client/PollReport.aspx?g=9749ea8d-a14e-4db8-bd3f-13cfb18c9d02 ,39,49,5,2,0,Minnesota
+http://media.wix.com/ugd/3bebb2_16b97664735d4325b018b7b608477434.pdf ,43,48,6,0,0,Pennsylvania
+https://www.scribd.com/document/329261002/NEVADA-October-27-2016#from_embed ,46,46,3,0,0,Nevada
+http://cnu.edu/cpp/pdf/oct%2028%202016%20report-final.pdf ,39,46,5,1,0,Virginia
+http://www.stltoday.com/news/local/govt-and-politics/trump-leads-clinton-blunt-kander-a-virtual-tie-in-missouri/article_a4a48a47-485f-5e9a-b6f6-1dba7c7deb48.html ,47,42,3,1,0,Missouri
+http://www.rasmussenreports.com/public_content/politics/elections/election_2016/idaho/election_2016_idaho_president ,48,29,6,3,10,Idaho
+https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/ ,43,47,5,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/UMass_Amherst_October_27th_2916.pdf ,38,43,8,3,0,New Hampshire
+https://www.unf.edu/publicrelations/media_relations/press/2016/Poll_Shows_Clinton,_Rubio_and_Amendment_2_hold_leads_in_Florida.aspx ,39,43,6,2,0,Florida
+http://www.realclearpolitics.com/docs/2016/Dixie_Strategies_FL_October_2016.pdf ,46,42,2,1,0,Florida
+https://www.siena.edu/assets/files/news/PA_oct_release_final261.pdf ,39,46,6,3,0,Pennsylvania
+http://www.realclearpolitics.com/docs/2016/Trafalgar_Ohio_October_27th_2016.pdf ,49,44,2,0,0,Ohio
+http://www.freep.com/story/news/politics/2016/10/27/donald-trump-narrows-hillary-clintons-lead-7-michigan/92786458/ ,34,41,9,3,0,Michigan
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-26-16_.pdf ,42,48,5,2,0,Michigan
+http://themissouritimes.com/35001/greitens-trims-kosters-lead-trump-surges-missouri/ ,50,39,4,1,0,Missouri
+http://www.realclearpolitics.com/docs/2016/Zia_Poll_October_27th_2016.pdf ,40,45,9,2,0,New Mexico
+http://kcts9.org/programs/vote-2016/new-poll-finds-washington-state-often-divided-region-and-political-parties-many#method ,39,53,0,0,0,Washington
+http://www.theadvocate.com/baton_rouge/news/politics/article_38cc60ba-9ba7-11e6-b933-a73c72e3f6bd.html ,50,35,0,0,0,Louisiana
+http://www.suffolk.edu/documents/SUPRC/10_27_2016_marginals.pdf ,25,57,4,3,0,Massachusetts
+http://www.ppic.org/content/pubs/survey/S_1016MBS.pdf ,28,54,5,5,0,California
+http://www.bloomberg.com/politics/articles/2016-10-26/florida-poll ,45,43,4,2,0,Florida
+http://www.nbcnews.com/politics/first-read/polls-clinton-holds-9-point-lead-new-hampshire-tied-nevada-n673361 ,43,43,1,0,0,Nevada
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NH_102616/ ,42,46,7,1,0,New Hampshire
+http://www.mystatesman.com/news/news/state-regional-govt-politics/new-texas-polls-shows-trump-with-small-but-safe-le/nsx2d/ ,45,38,0,0,0,Texas
+https://www.texastribune.org/2016/10/27/uttt-poll-trump-holds-narrow-lead-over-clinton/ ,45,42,7,2,0,Texas
+http://www.msubillings.edu/urelations/releases/newsphotos2016/oct/Montana_Poll_2016.pdf ,43,27,7,2,0,Montana
+http://www.wcax.com/story/33487111/wcax-poll-vermonters-strongly-favor-clinton ,22,50,7,5,0,Vermont
+http://www.realclearpolitics.com/docs/2016/Remington_OH_Oct_25th_2016.pdf ,46,42,0,0,0,Ohio
+http://www.realclearpolitics.com/docs/2016/Remington_PA_Oct_25th_2016.pdf ,42,45,0,0,0,Pennsylvania
+http://www.startribune.com/in-minnesota-poll-clinton-widens-lead-over-trump/398272671/ ,39,47,6,1,0,Minnesota
+http://www.realclearpolitics.com/docs/2016/Remington_WI_Oct_25th_2016.pdf ,41,46,0,0,0,Wisconsin
+http://www.realclearpolitics.com/docs/2016/Gravis_Indiana_Oct_2016.pdf ,49,38,5,0,0,Indiana
+http://www.realclearpolitics.com/docs/2016/Remington_NC_Oct_25th_2016.pdf ,47,44,3,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/New_York_Times_Siena_NC_Oct_25th.pdf ,39,46,8,0,0,North Carolina
+http://www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/cfn/2016/10/25/florida_decides_polls_presidential_race.html ,45,48,2,1,0,Florida
+http://www.realclearpolitics.com/docs/2016/Remington_FL_Oct_25th_2016.pdf ,46,46,0,0,0,Florida
+www.realclearpolitics.com/docs/2016/FAU_October_2016.pdf ,43,46,3,0,0,Florida
+https://talkbusiness.net/2016/10/trump-boozman-maintain-big-leads-in-arkansas/ ,56,33,4,2,0,Arkansas
+http://www.realclearpolitics.com/docs/2016/Remington_VA_Oct_25th_2016.pdf ,43,48,0,0,0,Virginia
+http://www.keloland.com/news/politics/campaign/keloland-campaign-2016-poll/ ,44,37,7,0,0,South Dakota
+http://www.realclearpolitics.com/docs/2016/Remington_CO_Oct_25th_2016.pdf ,43,45,0,0,0,Colorado
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_AZ_102516/ ,46,45,4,1,0,Arizona
+http://www.realclearpolitics.com/docs/2016/Remington_NV_Oct_25th_2016.pdf ,47,44,4,0,0,Nevada
+http://www.realclearpolitics.com/docs/2016/Emerson_Idaho_Oct_25th_2016.pdf ,52,23,4,0,10,Idaho
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NC_102416/ ,46,47,4,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/PPP_NC_Oct_24_2016.pdf ,44,47,4,0,0,North Carolina
+http://www.reviewjournal.com/politics/election-2016/rj-poll-shows-clinton-pulling-away-trump-nevada ,41,48,6,0,0,Nevada
+http://www.ktnv.com/news/political/ktnvrasmussen-poll-clinton-pulls-ahead-of-trump-in-nevada-as-early-voting-starts ,42,46,5,0,0,Nevada
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-24-16.pdf ,41,49,3,1,0,Michigan
+https://www.documentcloud.org/documents/3173866-Elway-Poll-102416.html ,31,48,1,1,0,Washington
+https://www.scribd.com/document/328596670/CBS-News-Battleground-Tracker-Texas-Oct-23-2016#from_embed ,46,43,5,1,0,Texas
+https://www.scribd.com/document/328596671/CBS-News-Battleground-Tracker-Florida-Oct-23-2016#from_embed ,43,46,3,2,0,Florida
+http://mrgmi.com/2016/10/michigan-poll-trump-trails-clinton-by-five-percent/ ,36,41,7,3,0,Michigan
+http://www.realclearpolitics.com/docs/2016/Remington_Research_South_Dakota_October_22nd_2016.pdf ,48,37,6,0,0,South Dakota
+http://wishtv.com/2016/10/20/hoosier-survey-trump-leads-in-indiana-pence-helps/ ,43,37,9,0,0,Indiana
+http://mprc.me/research/1016_presidential2.pdf ,36,42,9,4,0,Maine
+http://opinionsavvy.com/2016/10/21/poll-clinton-increases-lead-in-florida/ ,45,49,3,2,0,Florida
+http://www.realclearpolitics.com/docs/2016/Landmark_Statewide_Poll_of_Georgia_10.21_.16_.pdf ,47,43,5,0,0,Georgia
+http://politics.blog.ajc.com/2016/10/21/ajc-poll-trump-and-clinton-deadlocked-georgia/ ,44,42,9,0,0,Georgia
+http://opinionsavvy.com/wp-content/uploads/2016/10/OS-GA-General-10.20.16.pdf ,50,46,3,0,0,Georgia
+http://cnu.edu/cpp/pdf/oct%2021%202016%20report-final.pdf ,33,45,8,1,0,Virginia
+http://www.ksla.com/story/33437911/exclusive-poll-trump-holds-strong-lead-over-clinton-in-louisiana ,54,34,2,1,0,Louisiana
+http://www.suffolk.edu/documents/SUPRC/10_20_2016_marginals.pdf ,45,45,2,1,0,Ohio
+http://www.kgw.com/news/politics/elections/kgworegonian-poll-measure-97-a-virtual-tie-clinton-brown-lead/337615312 ,36,46,5,5,0,Oregon
+http://utahpolicy.com/index.php/features/today-at-utah-policy/11183-trump-leads-mcmullin-by-one-point-among-likely-utah-voters ,30,25,5,1,29,Utah
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-19-16_Final.pdf ,38,51,6,2,0,Michigan
+http://www.surveyusa.com/client/PollReport.aspx?g=ce17282d-d070-493a-8bcd-ee02ca9016e6 ,44,46,6,0,0,North Carolina
+https://www.nccivitas.org/wp-content/uploads/2016/10/CivitasOctoberPoll_release.pdf ,43,45,5,0,0,North Carolina
+http://media.wix.com/ugd/3bebb2_98fe8b3559f64960a573ecad7dc22ec9.pdf ,41,45,4,4,0,Pennsylvania
+https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2016_fall_preselec101916.pdf ,34,49,8,2,0,New Hampshire
+http://www.azcentral.com/story/news/politics/elections/2016/10/19/arizona-poll-hillary-clinton-donald-trump/92339110/ ,38,43,7,4,0,Arizona
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_WI_101916/ ,40,47,6,1,0,Wisconsin
+https://www.siena.edu/assets/files/news/SNY_October_2016_Poll_Release_--_FINAL1853.pdf ,30,54,5,4,0,New York
+http://ksn.com/2016/10/18/ksn-news-poll-continues-to-show-strong-support-for-trump-in-kansas/ ,47,36,7,2,0,Kansas
+http://digital.vpr.net/post/vpr-poll-overall-results-full-data ,17,45,4,3,0,Vermont
+http://www.snc.edu/sri/docs/2016/201610_Fall_WI_Survey_President_Release.pdf ,39,47,1,3,0,Wisconsin
+http://www.opb.org/news/series/election-2016/hillary-clinton-kate-brown-lead-in-new-opb-poll/ ,36,43,7,5,0,Oregon
+http://magellanstrategies.com/magellan-strategies-colorado-survey-2016/ ,35,40,1,5,0,Colorado
+https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NV_101816/ ,40,47,7,0,0,Nevada
+http://www.uh.edu/class/hobby/texas2016/ ,41,38,4,1,0,Texas
+http://view2.fdu.edu/publicmind/2016/161018/ ,40,51,0,0,0,New Jersey
+http://www.wbur.org/politicker/2016/10/18/poll-clinton-trump-massachusetts ,28,54,7,3,0,Massachusetts
+http://i2.cdn.turner.com/cnn/2016/images/10/17/link.1..pdf ,47,48,4,0,0,North Carolina
+https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf ,45,45,6,1,0,Ohio
+http://i2.cdn.turner.com/cnn/2016/images/10/17/link.3..pdf ,48,44,4,2,0,Ohio
+http://i2.cdn.turner.com/cnn/2016/images/10/17/link.2..pdf ,44,46,7,0,0,Nevada
+http://winwithjmc.com/wp-content/uploads/2016/10/Fleming-Executive-Summary-Poll-3-RELEASE.pdf ,45,38,4,1,0,Louisiana
+http://www.surveyusa.com/client/PollReport.aspx?g=2fc82f11-ee2e-4d25-b88d-805a1a9a3ae8 ,30,56,4,2,0,California
+http://idahopoliticsweekly.com/politics/1277-poll-clinton-gaining-on-trump-in-idaho ,40,30,1,3,0,Idaho
+http://www.rasmussenreports.com/platinum/election_2016_state_polls/crosstabs_election_2016_utah_president_october_14_16_2016 ,30,28,5,1,29,Utah
+http://www.realclearpolitics.com/docs/2016/Gravis_Colorado_October_13_2016.pdf ,42,46,2,1,0,Florida
+https://www.scribd.com/document/327758568/CBS-News-Battleground-Tracker-Nevada-Oct-16#from_embed ,40,46,4,0,0,Nevada
+http://missoulian.com/news/government-and-politics/trump-leads-in-montana-but-voters-aren-t-that-fond/article_09de91e3-c013-5e70-b82e-252fff748260.html ,46,36,1,0,0,Montana
+http://cnu.edu/cpp/pdf/oct%2016%202016%20report-final.pdf ,29,44,1,2,0,Virginia
+https://www.scribd.com/document/327758570/CBS-News-Battleground-Tracker-Utah-Oct-16#from_embed ,37,20,7,1,20,Utah
+http://www.lasvegasnow.com/news/nvdebate-tight-race-between-clinton-and-trump ,41,43,4,0,0,Nevada
+http://www.wbur.org/politicker/2016/10/14/poll-trump-clinton-new-hampshire ,38,41,1,3,0,New Hampshire
+http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_104161.pdf ,42,46,5,1,0,Florida
+http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_IN_101416/ ,45,41,9,0,0,Indiana
+http://www.surveyusa.com/client/PollReport.aspx?g=088d0066-02dc-4faa-affe-a321d1390f73 ,38,48,6,4,0,Oregon
+http://www.wfaa.com/news/local/texas-news/new-poll-trump-lead-shrinks-in-texas-within-margin-of-error/335896258 ,47,43,3,1,0,Texas
+http://www.nbcnews.com/politics/first-read/poll-clinton-ahead-north-carolina-virtual-tie-ohio-n665981 ,42,41,9,4,0,Ohio
+http://www.realclearpolitics.com/docs/2016/OCT_Emerson.pdf ,43,45,7,2,0,Ohio
+http://www.realclearpolitics.com/docs/2016/FINAL_NC_Marginals.pdf ,43,45,5,0,0,North Carolina
+http://www.realclearpolitics.com/docs/2016/Landmark_Poll_Georgia_Statewide_Oct_11-12_2016.pdf ,48,42,4,0,0,Georgia
+http://www.bloomberg.com/politics/articles/2016-10-13/pennsylvania-poll ,39,48,6,4,0,Pennsylvania
+https://www.uml.edu/Research/public-opinion/polls/default.aspx ,39,45,9,2,0,New Hampshire
+http://themissouritimes.com/34543/poll-koster-trump-lead-missouri-lt-gov-close-call/ ,47,42,4,1,0,Missouri
+http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-12-16_B.pdf ,37,47,7,4,0,Michigan
+http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_UT_101316/ ,34,28,9,1,20,Utah
+https://law.marquette.edu/poll/category/poll-release/ ,37,44,9,3,0,Wisconsin
+http://opinionsavvy.com/wp-content/uploads/2016/10/OS-FL-General-10.12.16.pdf ,44,47,5,1,0,Florida
+http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_MO_101216/ ,46,41,5,2,0,Missouri
+http://www.detroitnews.com/story/news/politics/2016/10/12/presidential-poll-michigan/91964392/ ,31,42,1,5,0,Michigan
+http://mprc.me/research/1016_presidential1.pdf ,36,44,9,3,0,Maine
+http://www.deseretnews.com/article/865664606/Poll-Trump-falls-into-tie-with-Clinton-among-Utah-voters.html ,26,26,1,1,22,Utah
+http://www.realclearpolitics.com/docs/2016/Zia_Poll_October_12th_2016.pdf ,36,46,1,2,0,New Mexico
+https://mgtvwhtm.files.wordpress.com/2016/10/toplines-statewideabc27-oct16.pdf ,40,44,4,2,0,Pennsylvania
+http://www.roanoke.edu/about/news/rc_poll_oct_2016_politics ,36,45,7,1,0,Virginia
+http://www.highpoint.edu/src/files/2016/10/48memoA.pdf ,42,43,8,0,0,North Carolina
