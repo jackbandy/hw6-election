@@ -1,4 +1,4 @@
-newslookup news domain
+newslookup news domain, key word: "2016 election"
 http://www.newslookup.com
 http://www.breitbart.com
 http://www.cnn.com
@@ -60,3 +60,4 @@ http://humanevents.com
 http://takimag.com
 http://buchanan.org
 https://lewrockwell.com
+https://voicesofliberty.com

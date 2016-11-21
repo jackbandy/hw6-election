@@ -15,11 +15,13 @@ dashboard = "dashboard.txt"
 url_file = 'nlu_article_url.txt'
 domain_file = 'nlu_article_domain.txt'
 
-keywords = ['2016+election', '2016+Trump', '2016+Clinton', '2016+poll', 'state+poll']
+keywords = ['2016+election', '2016+Trump', '2016+Clinton', '2016+poll', 'state+poll', \
+    'Trump+leads', 'Clinton+leads', 'Trump+gains', 'Clinton+gains', 'tied', 'electoral+college', \
+    'election+demographics', 'battleground+states', 'head-to-head']
 
 #total crawled url number
 num_url=0
-for j in range (0, len(keywords)):
+for j in range (5, len(keywords)):
     for i in range (1,1001):
 
         print ("  updating Dashboarding")
