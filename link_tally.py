@@ -16,7 +16,14 @@ def main():
     articles = np.genfromtxt('g_news_articles/g-news-articles-combined.txt', dtype=str)
     raw_polls = np.genfromtxt('poll_list/national_poll_urls.txt', dtype=str,
             delimiter='\n')
-    polls = [x[:x.find(',')] for x in raw_polls]
+    raw_s_polls= np.genfromtxt('poll_list/state_poll_urls.txt', dtype=str,
+            delimiter='\n')
+    n_polls = [x[:x.find(',')].strip() for x in raw_polls]
+    print("{} national polls".format(len(n_polls)))
+    s_polls = [x[:x.find(',')].strip() for x in raw_s_polls]
+    print("{} state polls".format(len(s_polls)))
+    polls = n_polls + s_polls
+    print("{} total polls".format(len(polls)))
     np.random.shuffle(polls)
 
     link_count = 0
