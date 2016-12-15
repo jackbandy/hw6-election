@@ -24,6 +24,7 @@ def main():
     global poll_link_count
     global total_crawl_count
     global poll_tally
+    global prev_articles
 
     link_dict = {}
     poll_link_count = 0
@@ -52,14 +53,18 @@ def main():
     for a in prev_articles_r:
         prev_articles[a] = 1
 
-    r_articles = pickle.load(open('pickle_jar/depth1_links.pkl', 'r'))
+    #r_articles = pickle.load(open('pickle_jar/depth1_links.pkl', 'r'))
+    r_articles = np.genfromtxt('pickle_jar/depth1_links.txt',
+            dtype=str, delimiter='\n')
     print('removing duplicates...')
     for a in r_articles:
         if (not prev_articles.get(a) and not d_articles.get(a)
-                and not poll_tally.get(a) and a[:4] =='http'):
+                and not poll_tally.get(a) and a[:4] =='http'
+                and 'facebook' not in a
+                and 'twitter' not in a
+                and 'google' not in a):
             d_articles[a] = 1
-    articles = d_articles.keys()
-    print('shuffling articles...')
+    articles = [ k for k in d_articles.keys()]
     np.random.shuffle(articles)
 
     
@@ -81,16 +86,19 @@ def main():
     d.addBoth(lambda _: reactor.stop())
     reactor.run()
     '''
+
     print("{} hits / {} crawled".format(poll_link_count, total_crawl_count))
-    pickle.dump(sublinks, open('depth2_links.pkl', 'w'))
-    pickle.dump(link_dict, open('depth1_link_dict.pkl', 'w'))
-    pickle.dump(poll_tally, open('poll_tally_depth1.pkl', 'w'))
+    a_sublinks = []
+    for l in sublinks:
+        a_sublinks.append(l.encode('ascii', 'ignore'))
+    np.savetxt('depth2_links.txt', a_sublinks, fmt='%s', delimiter='\n')
+    pickle.dump(link_dict, open('depth1_link_dict.pkl', 'wb'))
+    pickle.dump(poll_tally, open('poll_tally_depth1.pkl', 'wb'))
 
 
 
 class ElectionSpider(scrapy.Spider):
     name = 'election'
-    DOWNLOAD_DELAY = 0.5
     DOWNLOAD_HANDLERS = {
         'file': None,
         'http': 'scrapy.core.downloader.handlers.http.HTTPDownloadHandler',
@@ -98,14 +106,15 @@ class ElectionSpider(scrapy.Spider):
         's3': None,
         'ftp': None
     }
+    DOWNLOAD_DELAY = 0.2
     REDIRECT_MAX_TIMES = 4
+    DOWNLOAD_MAXSIZE = 2097152 # no more than 2MB
+    USER_AGENT = 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
     DOWNLOAD_TIMEOUT = 16
     CONCURRENT_ITEMS = 4000
     ROBOTSTXT_OBEY = True
-    DOWNLOAD_MAXSIZE = 16777216 # no more than 16MB
     CONCURRENT_REQUESTS_PER_IP = 4
     CONCURRENT_REQUESTS = 32
-    USER_AGENT = 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
     REACTOR_THREADPOOL_MAXSIZE = 32
 
     def start_requests(self):
@@ -113,7 +122,7 @@ class ElectionSpider(scrapy.Spider):
         toreturn = []
         for start_url in articles:
             try:
-                toreturn.append(Request(url=start_url))
+                toreturn.append(Request(start_url, self.parse))
             except Exception:
                 pass
 
@@ -132,6 +141,7 @@ class ElectionSpider(scrapy.Spider):
         global poll_link_count
         global total_crawl_count
         global poll_tally
+        global prev_articles
 
         bod = response.body
         url = response.url
@@ -144,7 +154,7 @@ class ElectionSpider(scrapy.Spider):
             soup = BeautifulSoup(bod, 'lxml')
             for link in soup.find_all('a'):
                 href = link.get('href')
-                if href is not None and len(href) > 0:
+                if href is not None and len(href) > 0 and not prev_articles.get(href):
                     href = href.strip()
                     if href in polls: # link to poll!
                         poll_link_count += 1
@@ -160,9 +170,9 @@ class ElectionSpider(scrapy.Spider):
             if (total_crawl_count % 100 == 0):
                 print("\nELECTSPIDER crawled {} urls\n".format(total_crawl_count))
 
-        except Exception, e:
+        except Exception:
             print("error with {}".format(url))
-            print(e)
+            
 
 
 
