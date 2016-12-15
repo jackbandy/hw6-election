@@ -8,7 +8,7 @@ import pickle
 #polls=np.genfromtxt('poll_list/state_poll_urls.txt', dtype=np.str,delimiter=',')
 polls=np.genfromtxt('fte_poll_list/fte_polls.csv',
         dtype=np.str,delimiter='\n')
-links = pickle.load(open('link_dict.pkl', 'r'))
+links = pickle.load(open('pickle_jar/depth0_link_dict.pkl', 'r'))
 
 poll_grades = {}
 poll_states = {}
@@ -36,17 +36,17 @@ for a in links.keys():
     pls = links[a]
     for pl in pls:
         total +=1
-        if poll_dates.get(pl): # if there's a date for pl
-            if date_tally.get(poll_dates[pl]):
-                date_tally[poll_dates[pl]] += 1
+        if poll_states.get(pl): # if there's a state for pl
+            if state_tally.get(poll_states[pl]):
+                state_tally[poll_states[pl]] += 1
             else:
-                date_tally[poll_dates[pl]] = 1
+                state_tally[poll_states[pl]] = 1
         else:
             misses +=1
 print("misses: {} / {}".format(misses,total))
-out = open("tally_dates.txt", "w")
-for s in date_tally.keys():
-    out.write("{}: {}\n".format(s, date_tally[s]))
+out = open("tally_states.txt", "w")
+for s in state_tally.keys():
+    out.write("{}: {}\n".format(s, state_tally[s]))
 
 out.close()
 

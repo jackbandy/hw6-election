@@ -1,0 +1,41 @@
+"Pennsylvania": 142
+"Colorado": 39
+"South Carolina": 3
+"Maine": 7
+"Vermont": 1
+"Indiana": 28
+"North Carolina": 175
+"Iowa": 30
+"Massachusetts": 3
+"Washington": 4
+"Maryland": 2
+"Georgia": 41
+"California": 11
+"Wisconsin": 37
+"Alaska": 8
+"New Jersey": 1
+"Minnesota": 4
+"Illinois": 3
+"Arizona": 29
+"Mississippi": 1
+"Oregon": 4
+"Ohio": 72
+"Texas": 44
+"Nevada": 63
+"U.S.": 819
+"Kansas": 6
+"Michigan": 50
+state: 1
+"Maine CD-1": 2
+"New York": 1
+"Maine CD-2": 8
+"Utah": 65
+"Virginia": 52
+"Kentucky": 1
+"Montana": 1
+"Idaho": 4
+"Louisiana": 1
+"New Hampshire": 96
+"Missouri": 53
+"Florida": 231
+"South Dakota": 1
