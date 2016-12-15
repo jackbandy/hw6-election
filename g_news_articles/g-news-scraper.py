@@ -24,7 +24,10 @@ for url in urls:
 	for anc_secondary in soup.findAll('a', attrs={'class':'_sQb'}):
 		results.add(anc_secondary['href'])
 
+	for anc_ternary in soup.findAll('a', attrs={'class':'_rQb'}):
+		results.add(anc_ternary['href'])
+
 results = list(results)
-with open('news-articles1.txt','w') as outfile:
+with open('news-articles.txt','w') as outfile:
 	for link in results:
 		outfile.write(link + '\n')
